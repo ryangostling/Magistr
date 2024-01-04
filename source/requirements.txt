@@ -1,0 +1,11 @@
+deep_translator==1.11.4
+fuzzywuzzy==0.18.0
+matplotlib==3.7.1
+pandas==1.5.3
+peewee==3.16.3
+pybliometrics==3.5.2
+PyQt5==5.15.10
+PyQt5_sip==12.11.0
+Requests==2.31.0
+scholarly==1.7.11
+transliterate==1.10.2
