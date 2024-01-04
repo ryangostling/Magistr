@@ -1,0 +1,200 @@
+{
+  "subjects": [
+    {
+      "subject_id": 1,
+      "full_title": "Multidisciplinary",
+      "group": "Multidisciplinary",
+      "abbreviation": "MULT",
+      "code": 1000
+    },
+    {
+      "subject_id": 2,
+      "full_title": "General Agricultural and Biological Sciences",
+      "group": "Agricultural and Biological Sciences",
+      "abbreviation": "AGRI",
+      "code": 1100
+    },
+    {
+      "subject_id": 3,
+      "full_title": "Agronomy and Crop Science",
+      "group": "Agricultural and Biological Sciences (miscellaneous)",
+      "abbreviation": "AGRI",
+      "code": 1101
+    },
+    {
+      "subject_id": 4,
+      "full_title": "Agronomy and Crop Science",
+      "group": "Agricultural and Biological Sciences",
+      "abbreviation": "AGRI",
+      "code": 1102
+    },
+    {
+      "subject_id": 5,
+      "full_title": "Animal Science and Zoology",
+      "group": "Agricultural and Biological Sciences",
+      "abbreviation": "AGRI",
+      "code": 1103
+    },
+    {
+      "subject_id": 6,
+      "full_title": "Aquatic Science",
+      "group": "Agricultural and Biological Sciences",
+      "abbreviation": "AGRI",
+      "code": 1104
+    },
+    {
+      "subject_id": 7,
+      "full_title": "Ecology, Evolution, Behavior and Systematics",
+      "group": "Agricultural and Biological Sciences",
+      "abbreviation": "AGRI",
+      "code": 1105
+    },
+    {
+      "subject_id": 8,
+      "full_title": "Food Science",
+      "group": "Agricultural and Biological Sciences",
+      "abbreviation": "AGRI",
+      "code": 1106
+    },
+    {
+      "subject_id": 9,
+      "full_title": "Forestry",
+      "group": "Agricultural and Biological Sciences",
+      "abbreviation": "AGRI",
+      "code": 1107
+    },
+    {
+      "subject_id": 10,
+      "full_title": "Horticulture",
+      "group": "Agricultural and Biological Sciences",
+      "abbreviation": "AGRI",
+      "code": 1108
+    },
+    {
+      "subject_id": 11,
+      "full_title": "Insect Science",
+      "group": "Agricultural and Biological Sciences",
+      "abbreviation": "AGRI",
+      "code": 1109
+    },
+    {
+      "subject_id": 12,
+      "full_title": "Plant Science",
+      "group": "Agricultural and Biological Sciences",
+      "abbreviation": "AGRI",
+      "code": 1110
+    },
+    {
+      "subject_id": 13,
+      "full_title": "Soil Science",
+      "group": "Agricultural and Biological Sciences",
+      "abbreviation": "AGRI",
+      "code": 1111
+    },
+    {
+      "subject_id": 14,
+      "full_title": "General Arts and Humanities",
+      "group": "Arts and Humanities",
+      "abbreviation": "ARTS",
+      "code": 1200
+    },
+    {
+      "subject_id": 15,
+      "full_title": "Arts and Humanities (miscellaneous)",
+      "group": "Arts and Humanities",
+      "abbreviation": "ARTS",
+      "code": 1201
+    },
+    {
+      "subject_id": 16,
+      "full_title": "History",
+      "group": "Arts and Humanities",
+      "abbreviation": "ARTS",
+      "code": 1202
+    },
+    {
+      "subject_id": 17,
+      "full_title": "Language and Linguistics",
+      "group": "Arts and Humanities",
+      "abbreviation": "ARTS",
+      "code": 1203
+    },
+    {
+      "subject_id": 18,
+      "full_title": "Archaeology",
+      "group": "Arts and Humanities",
+      "abbreviation": "ARTS",
+      "code": 1204
+    },
+    {
+      "subject_id": 15,
+      "full_title": "Classics",
+      "group": "Arts and Humanities",
+      "abbreviation": "ARTS",
+      "code": 1205
+    },
+    {
+      "subject_id": 16,
+      "full_title": "Conservation",
+      "group": "Arts and Humanities",
+      "abbreviation": "ARTS",
+      "code": 1206
+    },
+    {
+      "subject_id": 17,
+      "full_title": "History and Philosophy of Science",
+      "group": "Arts and Humanities",
+      "abbreviation": "ARTS",
+      "code": 1207
+    },
+    {
+      "subject_id": 18,
+      "full_title": "Literature and Literary Theory",
+      "group": "Arts and Humanities",
+      "abbreviation": "ARTS",
+      "code": 1208
+    },
+    {
+      "subject_id": 19,
+      "full_title": "Museology",
+      "group": "Arts and Humanities",
+      "abbreviation": "ARTS",
+      "code": 1209
+    },
+    {
+      "subject_id": 20,
+      "full_title": "Music",
+      "group": "Arts and Humanities",
+      "abbreviation": "ARTS",
+      "code": 1210
+    },
+    {
+      "subject_id": 21,
+      "full_title": "Philosophy",
+      "group": "Arts and Humanities",
+      "abbreviation": "ARTS",
+      "code": 1211
+    },
+    {
+      "subject_id": 22,
+      "full_title": "Religious studies",
+      "group": "Arts and Humanities",
+      "abbreviation": "ARTS",
+      "code": 1212
+    },
+    {
+      "subject_id": 23,
+      "full_title": "Visual Arts and Performing Arts",
+      "group": "Arts and Humanities",
+      "abbreviation": "ARTS",
+      "code": 1213
+    },
+    {
+      "subject_id": 25,
+      "full_title": "General Biochemistry, Genetics and Molecular Biology",
+      "group": "Biochemistry, Genetics and Molecular Biology",
+      "abbreviation": "ARTS",
+      "code": 1213
+    }
+  ]
+}
